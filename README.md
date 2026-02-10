@@ -6,6 +6,18 @@ An end-to-end analytics solution that uncovers regional, channel, and product pe
 
 Sales organizations often lack a clear, data-driven view of regional performance. This project analyzes **64,000+ orders** to uncover seasonality, SKU concentration, channel efficiency, and profit drivers, then translates those insights into practical strategic actions.
 
+## 📊 Power BI Dashboard Preview
+
+### Dashboard 1 — Regional Performance Overview
+![Dashboard 1](Dashboard1.png)
+
+### Dashboard 2 — Channel & KPI View
+![Dashboard 2](Dashboard2.png)
+
+### Dashboard 3 — Trend & Product Analysis
+![Dashboard 3](Dashboard3.png)
+
+
 ## 📂 Repository Structure
 
 ```bash
